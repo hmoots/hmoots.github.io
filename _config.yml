@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mootspoints Ancient DNA Blog
+name: Moots Points 
 
 # Short bio or description (displayed in the header)
-description: Postdoctoral Researchers at the Centre for Palaeogenetics
+description: Ancient DNA Blog by Hannah Moots
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.google.com/imgres?q=Hannah%20Moots&imgurl=https%3A%2F%2Fpalaeogenetics.com%2Fwp-content%2Fuploads%2F2024%2F01%2FHannah-e1706647690722-297x300.jpg&imgrefurl=https%3A%2F%2Fpalaeogenetics.com%2Fhannah-moots%2F&docid=AjXDb48wzW6CBM&tbnid=kJJ92LlbQfkU6M&vet=12ahUKEwi_nPWn9s6JAxVDGRAIHRafMhUQM3oECBwQAA..i&w=297&h=300&hcb=2&ved=2ahUKEwi_nPWn9s6JAxVDGRAIHRafMhUQM3oECBwQAA
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/hmoots/
   instagram:
   linkedin:
   pinterest:
